@@ -1,0 +1,55 @@
+.home-bg-container{
+    background-image:url("https://res.cloudinary.com/dgcyjet4c/image/upload/v1677918094/iu_xmyei4.jpg");
+    background-size: cover;
+    height:100vh;
+}
+.home-heading{
+    font-family:cursive;
+    color:aliceblue;
+
+}
+.home-heading:hover{
+    font-family:cursive;
+    color:yellow;
+
+}
+.home-camel{
+    height:500px;
+    width:500px;
+    padding:8vw;
+    border-top-left-radius:10vw;
+    border-bottom-right-radius:10vw;
+}
+.home-para{
+    color:#fff;
+    padding:18px;
+    font-size:25px;
+    font-family:cursive;
+    font-style:italic;
+    text-decoration: underline;
+}
+.game-card{
+    width:200px;
+    height:100px;
+    border-style: solid;
+    border-width:2px;
+    border-color:blueviolet;
+    margin:50px;
+    text-align:center;
+}
+
+div.timer {
+    border:5px #666666 solid;
+    width:190px;
+    height:50px;
+    line-height:50px;
+    font-size:36px;
+    font-family:"Courier New", Courier, monospace;
+    text-align:center;
+    margin-top:50px;
+    color:white;
+}
+.game-button{
+    margin-top:50px;
+    margin-left:12px;
+}
